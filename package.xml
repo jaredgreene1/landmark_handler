@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>landmark_handler</name>
+  <version>0.0.0</version>
+  <description>The landmark_handler package</description>
+
+  <maintainer email="jmg2227@columbia.edu">Alan and Jared</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <export>
+  </export>
+
+</package>
